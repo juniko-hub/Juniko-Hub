@@ -4,10 +4,14 @@ Welcome! This is the **official and only** script hub by Juniko.
 
 ---
 
-* 👤 **Developer:** Independent (One-person project)
-* 🛡️ **Status:** Official & Secure
-* 🍀 **Wishing you:** Good luck and great results!
+* 👤 **Developer:** Independent
+* 🛡️ **Status:** Official
+* 🍀 **Wishing you:** Good luck!
 
 ---
 
 *Created with support from the **Juniko Team**.*
+
+---
+
+*This only **BETA** test!*
